@@ -26,5 +26,16 @@ To surpass competitors and enable data-driven decision-making, the company has d
 •	Pre_invoice_dedutions   
 •	Post_invoice_deductions
 
+**IMPORTING DATA AND DATA MODELING:**
+
+Data was imported from MySQL into Power BI, and a data model was created after cleaning and transforming the data.
+
+✅ Data Extract ---> ✅ Data Cleaning---> ✅ Data Modelling ---> ✅ Data Analysis
+
+In this project, we have followed the Snowflake schema data modeling method.
+
+![Data Model](https://github.com/user-attachments/assets/60824abd-32c4-436e-b9f2-81aa13e956c1)
+
+
 
 
