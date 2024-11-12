@@ -38,7 +38,8 @@ Data was imported from MySQL into Power BI, and a data model was created after c
 
 In this project, we have followed the Snowflake schema data modeling method.
 
-![Data Model](https://github.com/user-attachments/assets/60824abd-32c4-436e-b9f2-81aa13e956c1)
+![Data Model](https://github.com/user-attachments/assets/f4455810-74bf-4988-a603-d0d698979bfc)
+
 
 ----------------------------------------------------------------------------------------------
 
@@ -53,32 +54,37 @@ In this project, we have followed the Snowflake schema data modeling method.
 
 **Finance Page**: _Focuses on improving financial planning, budgeting processes, and cost control. Includes Profit and Loss statements, Top and Bottom Products and Customers by Net Sales, and more._
 
-![Finance page](https://github.com/user-attachments/assets/1302447a-cea4-4df7-b389-92084fa1ce25)
+![Finance page](https://github.com/user-attachments/assets/9ec88585-c875-43b1-8201-c1e9eaae4a11)
+
 
 ----------------------------------------------------------------------------------------------
 
 **Sales Page:** _Aims to increase sales revenue and market share. Features Customer performance by Net Sales, Gross Margin, Gross Margin %, and more._
 
-![Sales Page](https://github.com/user-attachments/assets/41ddf51d-c558-43fe-a985-e0e9278a25fd)
+![Sales Page](https://github.com/user-attachments/assets/86e51922-7a24-44f5-81c4-65cdd9a7ca82)
+
 
 ----------------------------------------------------------------------------------------------
 
 **Marketing Page:** _Aims to increase brand visibility and customer engagement. Provides Segment Performance by Gross Margin% and Net Profit%, and more._
 
-![Marketing Page](https://github.com/user-attachments/assets/2e815b77-bed8-41d9-af5f-07ebb87032d0)
+![Marketing Page](https://github.com/user-attachments/assets/e85e688e-4c9d-4ca6-bd26-fe02160a80c4)
+
 
 ----------------------------------------------------------------------------------------------
 
 **Supply Chain Page:** _Aims to optimize inventory management and enhance supplier relationships for cost savings. Includes details about Forecast Accuracy, Net error, and more._
 
-![Supply Chain Page](https://github.com/user-attachments/assets/7a5d2f74-d891-4bb7-960f-60cb6cba2d7c)
+![Supply chain page](https://github.com/user-attachments/assets/3559909d-c655-49f2-8c83-d362115596f7)
+
 
 ----------------------------------------------------------------------------------------------
 
 **Executive Page:** _Provides an overview of the organization's performance for top management. Includes Net Sales, Gross Margin%, Net Profit%, Revenue Contribution by channel, Top 5 Customer and Product, Sub Region performance, and more._
 
 
-![Executive Page](https://github.com/user-attachments/assets/a757377d-c43b-4238-9af9-0008ef10e0a2)
+![Executive Page](https://github.com/user-attachments/assets/f156850d-a4ad-4006-895d-f08ab121c08f)
+
 
 ----------------------------------------------------------------------------------------------
 
