@@ -83,7 +83,7 @@ In this project, we have followed the Snowflake schema data modeling method.
 **Executive Page:** _Provides an overview of the organization's performance for top management. Includes Net Sales, Gross Margin%, Net Profit%, Revenue Contribution by channel, Top 5 Customer and Product, Sub Region performance, and more._
 
 
-![Executive Page](https://github.com/user-attachments/assets/f156850d-a4ad-4006-895d-f08ab121c08f)
+![Screenshot (47)](https://github.com/user-attachments/assets/d2457150-2def-47d5-ab88-bcc3d6f87cd2)
 
 
 ----------------------------------------------------------------------------------------------
