@@ -78,7 +78,8 @@ In this project, we have followed the Snowflake schema data modeling method.
 
 **Supply Chain Page:** _Aims to optimize inventory management and enhance supplier relationships for cost savings. Includes details about Forecast Accuracy, Net error, and more._
 
-![Screenshot (52)](https://github.com/user-attachments/assets/cbc41bc5-bf03-473c-8f02-16afb3aa2208)
+![Screenshot (53)](https://github.com/user-attachments/assets/0921f092-d484-4216-af6e-250eed98015a)
+
 
 
 
