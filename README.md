@@ -48,34 +48,38 @@ In this project, we have followed the Snowflake schema data modeling method.
 
 **Home Page**:  _A landing page with buttons to navigate to different pages._
 
-![HomePage](https://github.com/user-attachments/assets/4849ea31-d3ae-4ace-99c8-bf30b874aee6)
+![Screenshot (48)](https://github.com/user-attachments/assets/a46c009d-eeae-41b9-b212-814f7b1b53ed)
+
 
 ----------------------------------------------------------------------------------------------
 
 **Finance Page**: _Focuses on improving financial planning, budgeting processes, and cost control. Includes Profit and Loss statements, Top and Bottom Products and Customers by Net Sales, and more._
+![Screenshot (49)](https://github.com/user-attachments/assets/b513662c-6b3d-47bf-bd16-09c817e1217e)
 
-![Finance page](https://github.com/user-attachments/assets/9ec88585-c875-43b1-8201-c1e9eaae4a11)
 
 
 ----------------------------------------------------------------------------------------------
 
 **Sales Page:** _Aims to increase sales revenue and market share. Features Customer performance by Net Sales, Gross Margin, Gross Margin %, and more._
 
-![Sales Page](https://github.com/user-attachments/assets/86e51922-7a24-44f5-81c4-65cdd9a7ca82)
+![Screenshot (50)](https://github.com/user-attachments/assets/ba367faa-3480-4886-ada5-15eaf8eef0de)
+
 
 
 ----------------------------------------------------------------------------------------------
 
 **Marketing Page:** _Aims to increase brand visibility and customer engagement. Provides Segment Performance by Gross Margin% and Net Profit%, and more._
 
-![Marketing Page](https://github.com/user-attachments/assets/e85e688e-4c9d-4ca6-bd26-fe02160a80c4)
+![Screenshot (51)](https://github.com/user-attachments/assets/5d99860d-608a-4348-b152-bd0c529c8d39)
+
 
 
 ----------------------------------------------------------------------------------------------
 
 **Supply Chain Page:** _Aims to optimize inventory management and enhance supplier relationships for cost savings. Includes details about Forecast Accuracy, Net error, and more._
 
-![Supply chain page](https://github.com/user-attachments/assets/3559909d-c655-49f2-8c83-d362115596f7)
+![Screenshot (52)](https://github.com/user-attachments/assets/cbc41bc5-bf03-473c-8f02-16afb3aa2208)
+
 
 
 ----------------------------------------------------------------------------------------------
